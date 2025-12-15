@@ -1,10 +1,10 @@
 
 ## 可能性的单词
 
-absolutely/ definitely
-probably
-maybe
-unlikely
+- absolutely / definitely
+- probably
+- maybe
+- unlikely
 
 ## 年份
 

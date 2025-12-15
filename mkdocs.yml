@@ -4,9 +4,9 @@ nav:
   - 首页: index.md
   - 导论:
       - 英语的起源: intro/history.md
-      - 学英语的意义: intro/why.md
+      # - 学英语的意义: intro/why.md
       - 怎么学: intro/how.md
-  - 读写:
+  - 单词读写:
       - 发音:
           - 音标总览: read-write/pronunciation/ipa.md
           - 连读 & 轻重读: read-write/pronunciation/linking.md
@@ -15,7 +15,7 @@ nav:
           - 易混词: read-write/vocab/easily-confused-words.md
           - 高频词: read-write/vocab/high-frequency.md
           - 固定搭配: read-write/vocab/collocations.md
-  - 语法:
+  - 英语语法:
       - 词性: grammar/parts-of-speech.md
       - 动词语法: grammar/verbs.md
       - 形容词语法: grammar/adjectives.md
