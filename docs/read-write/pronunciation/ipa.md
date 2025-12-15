@@ -59,9 +59,3 @@ like note cute
   - /gz/
 
 
-
-#### 爆破音
-
-后接辅音时, 爆破音可以省略
-p t k b d g
-

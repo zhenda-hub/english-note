@@ -8,8 +8,8 @@ nav:
       - 怎么学: intro/how.md
   - 单词读写:
       - 发音:
-          - 音标总览: read-write/pronunciation/ipa.md
-          - 连读 & 轻重读: read-write/pronunciation/linking.md
+          - 音标IPA: read-write/pronunciation/ipa.md
+          - 发音难点: read-write/pronunciation/linking.md
       - 词汇:
           - 词根词缀: read-write/vocab/roots.md
           - 易混词: read-write/vocab/easily-confused-words.md
