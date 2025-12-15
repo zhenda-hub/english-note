@@ -1,38 +1,37 @@
 site_name: Zhenda English Notes
 
 nav:
-  - Home: index.md
+  - 首页: index.md
   - 导论:
       - 英语的起源: intro/history.md
       - 学英语的意义: intro/why.md
-      - 方法论: intro/methodology.md
+      - 怎么学: intro/how.md
   - 读写:
       - 发音:
-          - 音标总览: basics/pronunciation/ipa.md
-          - 连读 & 弱读: basics/pronunciation/linking.md
+          - 音标总览: read-write/pronunciation/ipa.md
+          - 连读 & 轻重读: read-write/pronunciation/linking.md
       - 词汇:
-          - 高频词: basics/vocab/high-frequency.md
-          - 词根词缀: basics/vocab/roots.md
-          - 固定搭配: basics/vocab/collocations.md
-          - 易混词: confusions/verbs.md
-  - 连词成句:
-      - 句子结构:
-          - 简单句 / 并列句 / 复合句: grammar/sentence-types.md
-          - 主谓一致: grammar/subject-verb.md
-      - 时态:
-          - 时态总览: grammar/tenses/overview.md
-          - 现在完成时: grammar/tenses/present-perfect.md
-      - 从句:
-          - 定语从句: grammar/clauses/relative.md
-          - 名词性从句: grammar/clauses/noun.md
-      - 易错点:
-          - 冠词 a / the: grammar/common-errors/articles.md
-          - 介词用法: grammar/common-errors/prepositions.md
-  - 主题场景:
-      - 职场必备: topics/workplace.md
-      - 旅行会话: topics/travel.md
-      - 学术写作: topics/academic.md
-  - 资源宝库: tools/dictionaries.md      
+          - 词根词缀: read-write/vocab/roots.md
+          - 易混词: read-write/vocab/easily-confused-words.md
+          - 高频词: read-write/vocab/high-frequency.md
+          - 固定搭配: read-write/vocab/collocations.md
+  - 语法:
+      - 词性: grammar/parts-of-speech.md
+      - 动词语法: grammar/verbs.md
+      - 形容词语法: grammar/adjectives.md
+      - 连字符: grammar/hyphen.md
+      - 连词成句: grammar/words2sentences.md
+      # - 从句:
+      #     - 定语从句: grammar/clauses/relative.md
+      #     - 名词性从句: grammar/clauses/noun.md
+      # - 易错点:
+      #     - 冠词 a / the: grammar/common-errors/articles.md
+      #     - 介词用法: grammar/common-errors/prepositions.md
+  # - 主题场景:
+  #     - 职场必备: topics/workplace.md
+  #     - 旅行会话: topics/travel.md
+  #     - 学术写作: topics/academic.md
+  - 资源宝库: tools.md      
   # - About: about.md
     
 # theme: readthedocs
