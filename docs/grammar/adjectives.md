@@ -1,5 +1,5 @@
 
-#### 形容词的类型
+## 形容词的类型
 
 
 人 → 用 -ed
@@ -20,5 +20,14 @@ The movie is exciting. / The lecture is boring.
 | relax    | relaxed    | relaxing          | I feel relaxed. / The music is relaxing.                     |
 | frighten | frightened | frightening       | I am frightened of spiders. / The movie is frightening.      |
 | satisfy  | satisfied  | satisfying        | I am satisfied with my work. / Helping others is satisfying. |
+
+
+## 比较
+
+
+
+
+最高级 不用 than
+
 
 
