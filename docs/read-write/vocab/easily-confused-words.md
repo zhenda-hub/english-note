@@ -37,6 +37,23 @@ listen = 主动，用心去听
 ### when vs. what time
 
 
-## 读写分离的情景....
 
-16th May -> May sixteenth
+<!-- 写：16 December 2025
+说：the sixteenth of December, twenty twenty-five
+ -->
+
+回答when:
+
+写：on Tuesday, December 16, 2025
+说：on Tuesday, December sixteenth, twenty twenty-five
+
+回答what time:
+
+写：at 3:45:30 pm
+读作 "at three forty-five thirty pm"
+
+
+日常用语：
+
+Let's meet on Friday, December 16 at 3 p.m.
+
