@@ -2,10 +2,12 @@
 ## 词典
 
 - 欧路词典: <https://dict.eudic.net/>
+- 有道词典: <https://www.youdao.com/> 
+
+## 翻译
+
 - 谷歌翻译: <https://translate.google.com/> 
-- 有道翻译: <https://www.youdao.com/> 
-
-
+- 微软翻译: <https://www.bing.com/translator/> 
 
 ## 学习app
 
