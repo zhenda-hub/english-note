@@ -57,3 +57,11 @@ listen = 主动，用心去听
 
 Let's meet on Friday, December 16 at 3 p.m.
 
+
+### luggage vs. pack
+
+行李箱 背包
+
+
+
+
