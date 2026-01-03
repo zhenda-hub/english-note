@@ -14,6 +14,10 @@
 - 2008: twenty eight
 - 2022: twenty twenty two
 
+## 星期
+
+week = weekend + weekdays
+
 ## 时间
 
 a quarter to nine => 8:45

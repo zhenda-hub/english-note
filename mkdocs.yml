@@ -28,8 +28,8 @@ nav:
       # - 易错点:
       #     - 冠词 a / the: grammar/common-errors/articles.md
       #     - 介词用法: grammar/common-errors/prepositions.md
-  # - 主题场景:
-  #     - 职场必备: topics/workplace.md
+  - 主题场景:
+      - 餐厅必备: topics/restaurant.md
   #     - 旅行会话: topics/travel.md
   #     - 学术写作: topics/academic.md
   - 资源宝库: tools.md      
