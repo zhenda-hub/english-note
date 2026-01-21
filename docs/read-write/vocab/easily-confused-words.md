@@ -63,5 +63,14 @@ Let's meet on Friday, December 16 at 3 p.m.
 行李箱 背包
 
 
+### presentation vs speech
+
+有 PPT 的多半是 presentation，没有 PPT、偏情绪的是 speech
+
+
+### prepare vs ready
+
+prepare 是“做准备”，ready 是“准备好了”
+
 
 
