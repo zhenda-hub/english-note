@@ -6,12 +6,12 @@ symptoms 症状
 appetite 食欲
 nauseous 想呕。
 
-
 vomiting. 呕吐
 diarrhea 腹泻
 
 dizzy 头晕
 
+sore throat  咽喉痛
 runny nose 鼻涕
 sneeze 打喷嚏
 
@@ -83,3 +83,12 @@ when 倾向 短动作
 
 
 walk my dog
+
+
+
+insomnia
+
+
+is addited to(prep) doing
+
+is addited to do
