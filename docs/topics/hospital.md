@@ -48,9 +48,9 @@ Take it with some plain food. 和清淡食物一起服用。
 
 side effect： 副作用
 
+feel drowsiness: 感觉到睡意
 
-
-Max dosage
+Max dosage 最大剂量
 
 2 teaspoons every 6 hours
 
