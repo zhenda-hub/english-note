@@ -53,3 +53,12 @@ have been v(ing )
 
 cut down on ...
 reduce
+
+
+无论如何，问题通常用过去时提出。注意，在提出的问题里，句子的顺序改回主语**+** 动词。
+
+How is the team doing?
+Cody asked how the team is doing.
+
+When are we going to get a new computer system?
+John asked when we were going to get a new computer system.
