@@ -25,6 +25,6 @@
 | -ment / -ness / -ity            | 名词                           | agreement, happiness, ability           | 表示“状态、性质”           |
 | -er / -or                       | 名词（人/物）                  | teacher, actor                          | 表示“做某事的人/物”        |
 | -able / -ible                   | 形容词                         | readable, flexible                      | 表示“能被…的”              |
-| -ive / -ous / -ful / -less / -y | 形容词                         | active, famous, useful, careless, funny | 表示“具有…特征的”          |
+| -ive / -ous / -ful / -less / -y/ -al  | 形容词                         | active, famous, useful, careless, funny, critical | 表示“具有…特征的”          |
 | -ly                             | 副词（偶尔形容词）             | quickly, friendly                       | 表示“方式地/……地”          |
 | -ize / -ify / -en / -ate        | 动词                           | organize, clarify, strengthen, create   | 表示“使成为…”              |
