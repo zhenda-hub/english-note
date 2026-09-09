@@ -1,41 +1,31 @@
-He never meets deadlines. 他从不按时完成任务。
-tardiness.迟到。
-meeting deadlines 按时完成任务
+# 职场问题与请假（Workplace Issues & Time Off）
 
-sloppy
-be tidy
+## 守时与效率
 
-distracted: not focused
+- He never meets deadlines. 他从不按时完成任务。
+- meeting deadlines 按时完成任务
+- tardiness 迟到
+- sloppy 马虎的 / be tidy 保持整洁
+- distracted: not focused 分心、不专注
+- work late 加班到很晚 / work overtime 加班
+- a lot of work 工作量很大
+- a work planner 工作计划表
+- set three alarms 设三个闹钟（提醒自己起床/别迟到）
 
-work late
+## 坦诚沟通
 
-a work planner
+- Can I be honest with you? 我能跟你说实话吗？
+- I appreciate your honesty. 我感谢你的坦诚。
+- That's pretty radical. 那太激进了。
+- What's the story? / What's going on? 发生什么事了？
 
-what's the story
-what;s going on
+## 请假与休假
 
-a lot of work
+- take time off = 请假 / 休假
+- I've got to get right back to the office. 我得马上赶回办公室。
 
-set three alarms
+## 其他常用词
 
-that who where how
+- arrange 安排
 
-employee morale 员工士气
-
-Can I be honest with you?
-I appreciate your honesty.
-
-That's pretty radical 太激进了
-
-take time off = 请假 / 休假
-I've got to get right back to the office 我得赶紧回办公室了。
-
-networking event
-
-work overtime
-
-3000: three thousand
-
-thousands of
-
-arrange: 安排
+📝 待补充：写请假/辞职邮件的句型。

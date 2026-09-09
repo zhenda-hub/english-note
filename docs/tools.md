@@ -1,4 +1,6 @@
 
+# 资源宝库
+
 ## 词典
 
 - 欧路词典: <https://dict.eudic.net/>

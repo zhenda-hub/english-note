@@ -2,38 +2,46 @@ site_name: Zhenda English Notes
 
 nav:
     - 首页: index.md
-    - 导论:
-          - 英语的起源: intro/history.md
-          # - 学英语的意义: intro/why.md
+    - 认识英语:
+          - 英语的特点与历史: intro/overview.md
           - 怎么学: intro/how.md
-    - 单词读写:
+          # - 学英语的意义: intro/why.md（待补充）
+    - 语音与词汇:
           - 发音:
-                - 音标IPA: read-write/pronunciation/ipa.md
-                - 发音重点: read-write/pronunciation/linking.md
+                - 音标 IPA: words/pronunciation/ipa.md
+                - 发音核心: words/pronunciation/connected-speech.md
+                - 单词重音: words/pronunciation/word-stress.md
           - 词汇:
-                - 词根词缀: read-write/vocab/roots.md
-                - 易混词: read-write/vocab/easily-confused-words.md
-                - 高频词: read-write/vocab/high-frequency.md
-                - 固定搭配: read-write/vocab/collocations.md
-    - 英语语法:
-          - 词性: grammar/parts-of-speech.md
-          - 动词语法: grammar/verbs.md
-          - 形容词语法: grammar/adjectives.md
-          - 名词语法: grammar/nouns.md
-          - 连词语法: grammar/conjunctions.md
-          - 连字符: grammar/hyphen.md
-          - 连词成句: grammar/words2sentences.md
-          - 虚拟语气: grammar/Subjunctive.md
-          # - 从句:
-          #     - 定语从句: grammar/clauses/relative.md
-          #     - 名词性从句: grammar/clauses/noun.md
-          # - 易错点:
-          #     - 冠词 a / the: grammar/common-errors/articles.md
-          #     - 介词用法: grammar/common-errors/prepositions.md
+                - 构词：词根词缀与复合词: words/vocab/roots.md
+                - 易混词: words/vocab/easily-confused-words.md
+                - 数字·时间·日期: words/vocab/numbers-time.md
+                - 程度·可能性·频率: words/vocab/degree-likelihood.md
+                # - 固定搭配: words/vocab/collocations.md（待补充）
+    - 连词成句 · 语法:
+          - 词法（词的性质与变化）:
+                - 词性总览: grammar/01-word-classes/parts-of-speech.md
+                - 名词与数量词: grammar/01-word-classes/nouns.md
+                - 动词与时态: grammar/01-word-classes/verbs.md
+                - 形容词与比较: grammar/01-word-classes/adjectives.md
+                - 并列连词: grammar/01-word-classes/conjunctions.md
+          - 句法（把词拼成句子）:
+                - 基本句型: grammar/02-sentences/patterns.md
+                - 疑问句: grammar/02-sentences/questions.md
+                - 三大从句: grammar/02-sentences/clauses.md
+          - 语气（假设与态度）:
+                - 条件句与假设: grammar/03-moods/conditionals.md
+                - 虚拟语气: grammar/03-moods/subjunctive.md
     - 主题场景:
-          - 餐厅必备: topics/restaurant.md
-    #     - 旅行会话: topics/travel.md
-    #     - 学术写作: topics/academic.md
+          - 餐厅点餐: topics/restaurant.md
+          - 客服与售后: topics/customer-service.md
+          - 就医与健康: topics/health.md
+          - 校园与学历: topics/education.md
+          - 购物与穿着: topics/clothes.md
+          - 影视娱乐: topics/entertainment.md
+          - 目标与未来计划: topics/goals.md
+          - 会议与公司动态: topics/meeting.md
+          - 职场问题与请假: topics/work-issues.md
+          - 社交与闲聊: topics/social.md
     - 资源宝库: tools.md
     # - About: about.md
 
