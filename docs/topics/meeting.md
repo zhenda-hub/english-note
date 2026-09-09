@@ -13,10 +13,12 @@
 
 - confidential = keep it quiet 机密的，要保密
 - be quiet 保持安静
+- This information is confidential, so you are reminded that passing on this information to non-staff members is strictly prohibited. 该信息属机密，特此提醒：严禁向非员工传播。
 
 ## 经营状况表达
 
 - purchase 购买 / 采购
+- good sales figures 销售业绩不错
 - revenue 收入 / costs 成本 / expenses 开支 / profits 利润 / market share 市场份额
 - 走势：rose 上升了 / fell 下降了 / significantly 显著地 → Revenue has risen significantly. 收入显著增长。
 - There are layoffs. 有裁员。
@@ -32,5 +34,9 @@
 - Our team is expanding, and we're moving to new offices. 团队在扩大，我们要搬去新办公室。
 - The company is downsizing the sales department. 公司正在缩减销售部门。
 - There's a rumor going around that we're kicking off a new project. 有传言说我们要启动一个新项目。
+- a new product launch 一次新品发布（We're having a new product launch. 我们要开新品发布会）
+- He's quitting to take some time off. 他要辞职，休息一段时间。
+- He's going to a startup. 他要去一家创业公司。
+- Apparently she's moving to Germany — a director position or something like that. 听说她要搬去德国，好像是主管之类的职位。
 
 > 转述别人在会上问的问题（asked how / asked when…），见 [疑问句](../grammar/02-sentences/questions.md)。

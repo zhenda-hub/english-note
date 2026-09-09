@@ -19,6 +19,15 @@
 - That's pretty radical. 那太激进了。
 - What's the story? / What's going on? 发生什么事了？
 
+## 设施故障：东西坏了
+
+- The bathrooms are out of order. 洗手间故障、暂停使用。
+- The phone lines are down. 电话线路断了。
+- The projector is out of action. 投影仪坏了。
+- IT told me that the intranet server is down today. IT 说今天内网服务器宕机了。
+
+> out of order / (be) down / out of action 都可以表示“设备坏了、没法用”。
+
 ## 请假与休假
 
 - take time off = 请假 / 休假
