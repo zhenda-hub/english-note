@@ -8,9 +8,9 @@ not_in_nav: true
 
 ## 已归位（2026-09 批次）
 
-- ✅ 公司动态/业绩/保密 → [会议与公司动态](topics/meeting.md)
-- ✅ 设施故障 → [职场问题与请假](topics/work-issues.md)
-- ✅ Good for her. → [社交与闲聊](topics/social.md)
+- ✅ 公司动态/业绩/保密 → [会议与公司动态](topics/02-work/meeting.md)
+- ✅ 设施故障 → [职场问题与请假](topics/02-work/work-issues.md)
+- ✅ Good for her. → [社交与闲聊](topics/04-leisure/social.md)
 
 ## 剩余待确认
 

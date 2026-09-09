@@ -13,10 +13,10 @@ If I had more money, I would travel more.
 If I had more time, I would learn English.
 What would you do if you had more free time?
 
-> 这是“与现在事实相反”的假设句，完整规则见 [条件句与假设](../grammar/03-moods/conditionals.md)。
+> 这是“与现在事实相反”的假设句，完整规则见 [条件句与假设](../../grammar/03-moods/conditionals.md)。
 
 ## 过去的打算（没实现）
 
 They were going to separate, but they fell in love again. 他们本来要分手，但又重新相爱了。
 
-> 结构 was/were going to + 动词原形，见 [动词与时态](../grammar/01-word-classes/verbs.md)。
+> 结构 was/were going to + 动词原形，见 [动词与时态](../../grammar/01-word-classes/verbs.md)。

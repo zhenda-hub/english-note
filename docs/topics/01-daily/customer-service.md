@@ -13,4 +13,4 @@
 - Contact your service staff. 联系客服人员
 - help line 帮助热线
 
-> 对比两个套餐时用 both / neither（两个都 / 两个都不），见 [名词与数量词](../grammar/01-word-classes/nouns.md)。
+> 对比两个套餐时用 both / neither（两个都 / 两个都不），见 [名词与数量词](../../grammar/01-word-classes/nouns.md)。

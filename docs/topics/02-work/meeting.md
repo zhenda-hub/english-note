@@ -39,4 +39,4 @@
 - He's going to a startup. 他要去一家创业公司。
 - Apparently she's moving to Germany — a director position or something like that. 听说她要搬去德国，好像是主管之类的职位。
 
-> 转述别人在会上问的问题（asked how / asked when…），见 [疑问句](../grammar/02-sentences/questions.md)。
+> 转述别人在会上问的问题（asked how / asked when…），见 [疑问句](../../grammar/02-sentences/questions.md)。

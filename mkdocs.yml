@@ -32,16 +32,20 @@ nav:
                 - 条件句与假设: grammar/03-moods/conditionals.md
                 - 虚拟语气: grammar/03-moods/subjunctive.md
     - 主题场景:
-          - 餐厅点餐: topics/restaurant.md
-          - 客服与售后: topics/customer-service.md
-          - 就医与健康: topics/health.md
-          - 校园与学历: topics/education.md
-          - 购物与穿着: topics/clothes.md
-          - 影视娱乐: topics/entertainment.md
-          - 目标与未来计划: topics/goals.md
-          - 会议与公司动态: topics/meeting.md
-          - 职场问题与请假: topics/work-issues.md
-          - 社交与闲聊: topics/social.md
+          - 生活日常:
+                - 餐厅点餐: topics/01-daily/restaurant.md
+                - 购物与穿着: topics/01-daily/clothes.md
+                - 客服与售后: topics/01-daily/customer-service.md
+                - 就医与健康: topics/01-daily/health.md
+          - 工作职场:
+                - 会议与公司动态: topics/02-work/meeting.md
+                - 职场问题与请假: topics/02-work/work-issues.md
+          - 学习与成长:
+                - 校园与学历: topics/03-study/education.md
+                - 目标与未来计划: topics/03-study/goals.md
+          - 人际与休闲:
+                - 社交与闲聊: topics/04-leisure/social.md
+                - 影视娱乐: topics/04-leisure/entertainment.md
     - 资源宝库: tools.md
     # - About: about.md
 
