@@ -1,76 +1,46 @@
-## 含义相似的易混单词
+# 易混词（Easily Confused Words）
 
-### its vs. it's
-its 是一个 所有格代词，表示某物或某人所属的事物。
-it's 是 “it is” 或 “it has” 的缩写形式，表示“它是”或“它有”。
+## its vs. it's
 
-### watch vs. see
+- **its** 是物主代词，表示“某物的” → The dog wagged its tail.
+- **it's** 是 “it is” 或 “it has” 的缩写 → It's raining. / It's been a while.
 
-see = 用眼睛“看到”，不一定主动。
-👉 例子：I see a bird outside the window. （我看到一只鸟，不是我特意去看。）
+## watch vs. see
 
-watch = 有目的地“盯着看”，动作更主动，持续一段时间。
-👉 例子：I watch TV every evening. （我主动地看电视。）
-
-✅ 小技巧：
-
-see = 不经意的，短暂的
-
-watch = 主动的，长时间的
-
-### listen vs. hear
-
-hear = 耳朵听到声音，不一定专心。
-👉 例子：I can hear music from next door. （我听到隔壁有音乐声，但没认真听。）
-
-listen = 主动去“听”，表示专心。
-👉 例子：I’m listening to music now. （我戴着耳机在认真听音乐。）
+- **see** = 用眼睛“看到”，不一定主动。
+  👉 I see a bird outside the window.（我看到一只鸟，不是我特意去看。）
+- **watch** = 有目的地“盯着看”，更主动，持续一段时间。
+  👉 I watch TV every evening.（我主动地看电视。）
 
 ✅ 小技巧：
 
-hear = 被动，耳朵接收到声音
+- see = 不经意的、短暂的
+- watch = 主动的、长时间的
 
-listen = 主动，用心去听
+## listen vs. hear
 
+- **hear** = 耳朵听到声音，不一定专心。
+  👉 I can hear music from next door.（我听到隔壁有音乐声，但没认真听。）
+- **listen** = 主动去“听”，表示专心。
+  👉 I'm listening to music now.（我戴着耳机在认真听音乐。）
 
+✅ 小技巧：
 
-### when vs. what time
+- hear = 被动，耳朵接收到声音
+- listen = 主动，用心去听
 
+## luggage vs. pack
 
+- luggage 行李箱（不可数，总称行李）
+- pack 背包 / 行囊
 
-<!-- 写：16 December 2025
-说：the sixteenth of December, twenty twenty-five
- -->
+## presentation vs. speech
 
-回答when:
+有 PPT 的多半是 **presentation**，没有 PPT、偏情绪感染的是 **speech**。
 
-- 写：on Tuesday, December 16, 2025
-- 说：on Tuesday, December sixteenth, twenty twenty-five
+## prepare vs. ready
 
-回答what time:
+- prepare 是“做准备”（动作）
+- ready 是“准备好了”（状态）
 
-- 写：at 3:45:30 pm
-- 读作 "at three forty-five thirty pm"
-
-
-日常用语：
-
-Let's meet on Friday, December 16 at 3 p.m.
-
-
-### luggage vs. pack
-
-行李箱 背包
-
-
-### presentation vs speech
-
-有 PPT 的多半是 presentation，没有 PPT、偏情绪的是 speech
-
-
-### prepare vs ready
-
-prepare 是“做准备”，ready 是“准备好了”
-
-
-
+📝 待补充：when vs what time / 日期写法已移入 [数字 · 时间 · 日期](numbers-time.md)。

@@ -1,30 +1,33 @@
-
-## 可能性的单词
-
-- absolutely / definitely
-- probably
-- maybe
-- unlikely
+# 数字 · 时间 · 日期
 
 ## 年份
 
-年份可以拆分成两个 两位数来说:
+年份常拆成两个两位数来读：
 
-- 1980: nighteen eighty
-- 2008: twenty eight
-- 2022: twenty twenty two
+- 1980: nineteen eighty
+- 2008: two thousand eight（口语也常说 twenty oh eight）
+- 2022: twenty twenty-two
 
 ## 星期
 
-week = weekend + weekdays
+week = weekend + weekdays（周末 + 工作日）
 
-## 时间
+## 时刻
 
-a quarter to nine => 8:45
-a quarter past nine => 9:15
+- a quarter to nine → 8:45
+- a quarter past nine → 9:15
 
-- “past” → 过了某个小时
-- “to” → 差到下一个小时
+口诀：**past** → 过了某个小时；**to** → 差几分钟到下一个小时。
+
+## 问时间：when vs. what time
+
+- 问 **when**（什么时候）→ 回答带日期 / 星期：
+  - 写：on Tuesday, December 16, 2025
+  - 说：on Tuesday, December sixteenth, twenty twenty-five
+- 问 **what time**（几点）→ 回答带具体钟点：
+  - 写：at 3:45:30 pm
+  - 读作 “at three forty-five thirty pm”
+- 日常用语：Let's meet on Friday, December 16 at 3 p.m.
 
 ## 大数字
 
@@ -41,7 +44,12 @@ a quarter past nine => 9:15
 | 万亿     | 10¹²    | one trillion        |
 | 千万亿   | 10¹⁵    | one quadrillion     |
 
-## 小数字
+口语小补充：
+
+- 3000 → three thousand
+- thousands of … → 数千（约数）→ thousands of people
+
+## 小数字：更小的时间单位
 
 | 时间单位 | 符号 | 英文名称    | 与秒的换算             | 典型参照物 / Typical Reference                                               |
 | :------- | :--- | :---------- | :--------------------- | :--------------------------------------------------------------------------- |
@@ -52,12 +60,7 @@ a quarter past nine => 9:15
 | 飞秒     | fs   | Femtosecond | 千万亿分之一秒 (10⁻¹⁵) | 分子振动周期 / Period of a molecule's vibration.                             |
 | 阿秒     | as   | Attosecond  | 百亿亿分之一秒 (10⁻¹⁸) | 电子绕原子核运动的时间尺度 / Time scale of electron motion around a nucleus. |
 
+## 范围表达
 
-
-
-## 学位
-
-- Associate degree（专科 / 大专）副的、辅助的、较低层级的
-- Bachelor’s degree（学士）
-- Master’s degree（硕士）
-- Doctor’s degree（博士）
+- **from … to …**（从…到…）→ Revenue grew from 10% to 15%.
+- **between … and …**（在…和…之间）→ It costs between $5 and $10.
