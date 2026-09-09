@@ -1,6 +1,7 @@
 
- <!--[toc] -->
+<!--[toc] -->
 
+# 动词与时态
 
 ## 动词分类
 
@@ -104,6 +105,27 @@ have done since
 
 - The party will begin in 10 minutes.
 - The party started 10 minutes ago.
+
+#### 现在完成时小补充
+
+- **have been to** = “去过（已回来）” → I've been to the doctor's.（对比：have gone to = 去了还没回来）
+- **have done / have had** = 已经完成 / 经历过 → I've done my homework. I've had lunch.
+- **have been + 形容词** = 从过去一直持续到现在的状态 → I've been busy all week.
+
+#### 现在完成进行时：have/has been doing
+
+表示“从过去一直进行到现在，可能仍在继续”：
+
+- I've been waiting here for an hour.
+- I've been feeling tired recently.
+
+> 对比：**be doing**（现在进行，动作正在进行）↔ **have been doing**（现在完成进行，从过去持续到现在）。
+
+#### 过去将来：was / were going to
+
+表示“当时打算要做的事”，常接 **but + 过去时** 说明转折或没做成：
+
+- They were going to separate, but they fell in love again.
 
 
 

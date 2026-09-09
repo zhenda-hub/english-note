@@ -1,5 +1,7 @@
 
-## 形容词的类型
+# 形容词：-ed / -ing 与比较
+
+## -ed 还是 -ing？（人 vs 事物）
 
 
 人 → 用 -ed
@@ -27,7 +29,12 @@ The movie is exciting. / The lecture is boring.
 
 
 
-最高级 不用 than
+最高级**不用 than**（than 只用在比较级里）：
+
+- 比较级：This book is more interesting **than** that one.
+- 最高级：This is the **most** interesting book I've read.
+
+📝 待补充：比较级 / 最高级的变化规则（-er/-est、more/most）。
 
 
 
