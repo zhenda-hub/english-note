@@ -64,3 +64,11 @@ week = weekend + weekdays（周末 + 工作日）
 
 - **from … to …**（从…到…）→ Revenue grew from 10% to 15%.
 - **between … and …**（在…和…之间）→ It costs between $5 and $10.
+
+## 约数表达
+
+- **around = about**（约、大概，最口语）
+  - I work around 50 hours a week. 我一周大约工作 50 小时。
+  - I work about 50 hours a week. 同上，about 更常见于口语。
+- **roughly = approximately**（大约，更正式）→ roughly 50 hours a week
+- **almost / nearly**（将近，差一点到）→ nearly 50 hours

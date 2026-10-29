@@ -43,4 +43,19 @@
 - prepare 是“做准备”（动作）
 - ready 是“准备好了”（状态）
 
+## used to vs. be used to
+
+- **used to + 动词原形** = 过去常常（现在不这样了）→ I used to work late. 我以前常加班。
+- **be used to + 名词 / 动名词** = 习惯于（to 是介词）→ I'm used to working late. 我习惯加班了。
+- **be used to + 动词原形** = 被用来（被动）→ Wood is used to make paper. 木头用来造纸。
+
+✅ 小技巧：看到 be used to，先看后面是 doing（习惯）还是 do（被动）。
+
+## kind of vs. a kind of
+
+- **kind of** = to say 'slightly'（有点儿，程度副词，口语）→ I'm kind of tired. 我有点儿累。
+- **a kind of** means 'a type of'（一种，限定名词）→ A guitar is a kind of instrument. 吉他是乐器的一种。
+
+✅ 小技巧：有冠词 a 就是“一种”，没冠词就是“有点儿”。
+
 📝 待补充：when vs what time / 日期写法已移入 [数字 · 时间 · 日期](numbers-time.md)。

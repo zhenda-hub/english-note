@@ -16,7 +16,7 @@ nav:
                 - 易混词: words/vocab/easily-confused-words.md
                 - 数字·时间·日期: words/vocab/numbers-time.md
                 - 程度·可能性·频率: words/vocab/degree-likelihood.md
-                # - 固定搭配: words/vocab/collocations.md（待补充）
+                - 固定搭配: words/vocab/collocations.md
     - 连词成句 · 语法:
           - 词法（词的性质与变化）:
                 - 词性总览: grammar/01-word-classes/parts-of-speech.md

@@ -42,4 +42,10 @@
 - Could you make it then? 您这个时间可以吗？（预约/改时间）
 - Thanks, doctor. / You're welcome. 谢谢医生。/ 不客气。
 
+## 体形与体能（Fitness）
+
+- in good shape 身材／身体状态好 → He's in really good shape. 他身材保持得很好。
+- out of shape 身材走样、体能下降 → I'm a little out of shape. 我有点发福／体能不如从前。
+- 说“身体状况”用 in shape / out of shape，不用 at shape。
+
 📝 待补充：常见病症的完整描述（“我头疼/发烧…”怎么说）。

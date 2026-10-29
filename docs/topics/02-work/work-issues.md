@@ -33,6 +33,14 @@
 - take time off = 请假 / 休假
 - I've got to get right back to the office. 我得马上赶回办公室。
 
+## 加班文化与工作氛围
+
+- We don't go out for fun together — we just work and go home. 我们不一起出去玩，就是上班、回家。
+- In China, some companies have a 996 work culture. It means working from 9 a.m. to 9 p.m., six days a week. That's 72 hours a week, including breaks.
+  - 996 工作制：早 9 点到晚 9 点、一周 6 天，合计每周 72 小时（含休息时间）。
+  - work culture 工作文化 / including breaks 含休息时间
+- go out for fun 出去玩 / go home 回家（工作—回家两点一线）
+
 ## 其他常用词
 
 - arrange 安排
