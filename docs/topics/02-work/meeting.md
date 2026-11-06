@@ -8,6 +8,7 @@
 - agenda: topics of the meeting 议程：会议要讨论的议题
 - action item: next step 待办事项：下一步要做的
 - that's it then 那就这些了（会议收尾）
+- who should do what 谁负责什么（分工）
 
 ## 保密与纪律
 

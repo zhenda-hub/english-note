@@ -16,6 +16,23 @@
 - I don't know where the school is.
 - I wondered how good the instructors were.
 
+⚠️ `how` 引导的从句同样要用陈述语序，不能说 `how did companies develop` 这种疑问语序：
+
+- I write about how companies developed. 我写的是公司如何发展的。
+
+| 独立疑问句（疑问语序） | 变成从句后（陈述语序） |
+| ---------------------- | ---------------------- |
+| Where **does** he live? | I don't know where he **lives**. |
+| What time **does** the train leave? | Can you tell me what time the train **leaves**? |
+| Why **did** she leave? | She explained why she **left**. |
+| How **did** you do it? | Tell me how you **did** it. |
+| What **are** you looking for? | I wonder what you **are** looking for. |
+| Who **are** you waiting for? | I don't know who you **are** waiting for. |
+| How much **does** it cost? | I want to know how much it **costs**. |
+| Which book **did** you buy? | She asked which book I **had bought**. |
+| How long **have** you been waiting? | He asked how long I **had been waiting**. |
+| Where **can** I park? | Do you know where I **can** park? |
+
 ## 反义疑问句（tag questions）
 
 tag questions 反义疑问句 = 陈述句 + 简短问尾，用来向对方求证或确认。

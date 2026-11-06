@@ -17,6 +17,8 @@ nav:
                 - 数字·时间·日期: words/vocab/numbers-time.md
                 - 程度·可能性·频率: words/vocab/degree-likelihood.md
                 - 固定搭配: words/vocab/collocations.md
+          - 表达与引用:
+                - 名句与常用表达: words/expressions/quotes.md
     - 连词成句 · 语法:
           - 词法（词的性质与变化）:
                 - 词性总览: grammar/01-word-classes/parts-of-speech.md
@@ -40,6 +42,7 @@ nav:
           - 工作职场:
                 - 会议与公司动态: topics/02-work/meeting.md
                 - 职场问题与请假: topics/02-work/work-issues.md
+                - 求职面试: topics/02-work/interview.md
           - 学习与成长:
                 - 校园与学历: topics/03-study/education.md
                 - 目标与未来计划: topics/03-study/goals.md

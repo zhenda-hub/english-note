@@ -35,3 +35,4 @@
 
 - School Committee 校务委员会
 - benefit 好处 / drawback 坏处
+- I felt awkward standing in front of the whole class. 站在全班面前，我觉得很尴尬。

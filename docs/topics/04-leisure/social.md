@@ -25,3 +25,8 @@
 - It's nothing to worry about. 没什么好担心的。
 - It'll be fine. 会没事的。
 - I wouldn't worry about it. 我要是你就不担心这个。
+
+## 聚会与照看孩子
+
+- She showed up at the party. 她出现在了派对上。（show up = 出现、露面）
+- Look out for my daughter. 帮我照看一下我女儿。（look out for = 照看、留意）

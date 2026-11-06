@@ -14,6 +14,7 @@
 
 - What he said is true.（他说的是真的）
 - That she passed the exam surprised everyone.
+- It is said that he resigned.（据说他辞职了）—— `it` 是形式主语，真正的主语是后面的 that 从句
 
 ### 宾语从句（作宾语）
 

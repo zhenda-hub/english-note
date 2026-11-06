@@ -41,6 +41,10 @@
   - work culture 工作文化 / including breaks 含休息时间
 - go out for fun 出去玩 / go home 回家（工作—回家两点一线）
 
+## 团建与同事相处
+
+- team building 团建（团队建设活动）→ We're doing team building this Friday. 这周五我们团建。
+
 ## 其他常用词
 
 - arrange 安排
