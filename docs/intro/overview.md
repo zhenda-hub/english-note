@@ -26,9 +26,7 @@
 
 ### 1. 词汇丰富且来源多样
 
-英语词汇量超过100万，是世界上词汇最多的语言。主要来源：
-
-![英语词汇来源饼图](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Origins_of_English_Words.svg/1200px-Origins_of_English_Words.svg.png)
+英语词汇量超过100万，是世界上词汇最多的语言。
 
 - 日耳曼语源（核心词汇，如family、house、good）
 - 法语/拉丁语源（正式词汇，如familial、residence、beneficial）
