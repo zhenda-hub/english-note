@@ -33,6 +33,39 @@ Net Profit（净利润）
 - hurt employee morale 打击员工士气
 - cut down on … / reduce 削减、减少
 
+## 经营动作与财务词（速查 20 条）
+
+开会、汇报、看财报时的高频搭配。左列用来写（报告、PPT、邮件），右列是**可以直接照念的话**（会上、群里跟同事说）。
+
+| # | 英文短语（写作用） | 短句（可以直接说） | 中文 |
+| --: | :-- | :-- | :-- |
+| 1 | increase in sales | Sales increased 8% last quarter. | 上季度销售额涨了 8%。 |
+| 2 | decline in revenue | Revenue declined two quarters in a row. | 收入连续两个季度下滑。 |
+| 3 | reduce costs | We need to reduce costs by 10%. | 我们得把成本降 10%。 |
+| 4 | generate revenue | This product generates most of our revenue. | 这个产品贡献了我们大部分收入。 |
+| 5 | make a profit | We barely made a profit this year. | 今年勉强盈利。 |
+| 6 | suffer a loss | We suffered a loss in Q3. | 三季度我们亏损了。 |
+| 7 | boost sales | The discount boosted sales by 20%. | 打折让销售额涨了 20%。 |
+| 8 | cut expenses | We have to cut expenses next year. | 明年得削减开支。 |
+| 9 | market share | We lost market share to a competitor. | 我们的市场份额被对手抢走了。 |
+| 10 | competitive advantage | Our speed is our competitive advantage. | 快是我们的竞争优势。 |
+| 11 | customer demand | Customer demand is growing fast. | 客户需求增长很快。 |
+| 12 | enter a market | We're entering the Southeast Asian market. | 我们要进军东南亚市场。 |
+| 13 | expand a business | We're expanding the business into Europe. | 我们正把业务扩到欧洲。 |
+| 14 | launch a product | We're launching a new product in May. | 五月我们要推新品。 |
+| 15 | economic growth | Economic growth slowed this year. | 今年经济增长放缓。（宏观词，日常对话很少用） |
+| 16 | face competition | We're up against tough competition. | 我们面临激烈竞争。（口语不说 face competition，说 be up against） |
+| 17 | improve efficiency | We improved efficiency by automating the process. | 靠自动化提升了效率。 |
+| 18 | achieve a target | We hit our target. / We missed our target by 5%. | 我们达标了 / 差 5% 没达标。（口语用 hit / miss，不用 achieve） |
+| 19 | cash flow | Cash flow is tight this month. | 这个月现金流紧张。 |
+| 20 | break even | We broke even last quarter. | 上季度持平（不赔不赚）。 |
+
+搭配提示：
+
+- **increase / decline in + 名词**：an increase in sales、a decline in revenue（“in” 后面跟变动的东西；说成句子时直接用动词 increased / declined）
+- **generate revenue vs. make a profit**：前者是“做出收入”（有多少进账），后者是“赚到利润”（扣完成本还剩）
+- **break even** 是动词短语：We broke even last quarter.（上季度持平）
+
 ## 公司动态与传闻
 
 - We're kicking off a new project in the second quarter. 我们将在第二季度启动一个新项目。
