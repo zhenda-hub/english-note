@@ -1,5 +1,10 @@
 site_name: Zhenda English Notes
 
+# GitHub 仓库地址：Material 靠它渲染「编辑 / 查看源码」按钮
+repo_url: https://github.com/zhenda-hub/english-note
+repo_name: zhenda-hub/english-note
+edit_uri: edit/main/docs/
+
 nav:
     - 首页: index.md
     - 认识英语:
