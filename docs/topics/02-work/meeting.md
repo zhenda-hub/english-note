@@ -18,9 +18,15 @@
 
 ## 经营状况表达
 
+Revenue - Costs - Expenses = Profit
+
+Gross Profit（毛利润）
+Operating Profit（营业利润）
+Net Profit（净利润）
+
+- revenue 收入 / costs 成本 / expenses 开支 / profits 利润 / market share 市场份额
 - purchase 购买 / 采购
 - good sales figures 销售业绩不错
-- revenue 收入 / costs 成本 / expenses 开支 / profits 利润 / market share 市场份额
 - 走势：rose 上升了 / fell 下降了 / significantly 显著地 → Revenue has risen significantly. 收入显著增长。
 - There are layoffs. 有裁员。
 - cut the budget 削减预算
