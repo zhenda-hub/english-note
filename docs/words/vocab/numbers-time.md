@@ -16,6 +16,8 @@ week = weekend + weekdays（周末 + 工作日）
 
 - a quarter to nine → 8:45
 - a quarter past nine → 9:15
+- 8:30 → eight thirty / half past eight（口语两个都常听）
+- I'm booked until 8:30 a.m., sorry! 我上午八点半之前都排满了，抱歉！（be booked = 时间已被占）
 
 口诀：**past** → 过了某个小时；**to** → 差几分钟到下一个小时。
 

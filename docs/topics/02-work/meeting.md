@@ -9,12 +9,17 @@
 - action item: next step 待办事项：下一步要做的
 - that's it then 那就这些了（会议收尾）
 - who should do what 谁负责什么（分工）
+- finalize the agenda with my manager 和经理敲定议程（finalize = 定稿、敲定）
+- announce the news 公布消息（announce = 正式宣布；公司通知、口头通报都能用）
 
 ## 保密与纪律
 
 - confidential = keep it quiet 机密的，要保密
 - be quiet 保持安静
 - This information is confidential, so you are reminded that passing on this information to non-staff members is strictly prohibited. 该信息属机密，特此提醒：严禁向非员工传播。
+- I can't tell you. 我不能告诉你。
+- No comment. 无可奉告。（对媒体/不熟的人最安全的挡箭牌）
+- I can't talk about this. 这事我不能谈。
 
 ## 经营状况表达
 

@@ -29,6 +29,15 @@
 - chocolate mousse 巧克力慕斯
 - apple pie 苹果派
 
+## 清淡与油腻（Light / Heavy Food）
+
+点餐、聊口味时最常用来描述食物的两个词。
+
+- light food 清淡、好消化的食物（沙拉、汤、蒸菜）
+- heavy food 油腻厚重的食物（炸物、大肉、奶油类），吃完容易犯困
+- I'd like something light. 我想吃点清淡的。
+- That's too heavy for me. 那对我来说太腻了。
+
 ## 饮品（Drinks）
 
 - coffee 咖啡

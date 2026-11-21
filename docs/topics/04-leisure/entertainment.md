@@ -23,4 +23,10 @@
 - Music has a huge impact on how I feel. 音乐极大地影响我的情绪。
 - have an impact on … 对…有影响（huge / big impact = 影响很大）
 
+## 犯罪 / 悬疑剧（Crime & Mystery）
+
+- Catch the criminal. 抓住罪犯。（catch 不只“抓”，也用于“抓住机会” catch the chance）
+- Who will solve the case? 谁会破这个案？（solve the case = 破案）
+- case 案子、案件；detective 侦探 / suspect 嫌疑人 / witness 目击者
+
 📝 待补充：影视类型词（comedy / action / documentary…）与完整观后感句式。

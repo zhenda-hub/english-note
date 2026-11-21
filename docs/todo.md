@@ -33,6 +33,15 @@ not_in_nav: true
 - ✅ It is said（`it` 作形式主语）→ [三大从句](grammar/02-sentences/clauses.md)「主语从句」
 - ✅ When you gaze into the abyss…（尼采原句）+ 一批口语谚语/套话 → 新建 [名句与常用表达](words/expressions/quotes.md)
 
+## 已归位（2026-11 补充）
+
+- ✅ announce the news、finalize the agenda with my manager → [会议与公司动态](topics/02-work/meeting.md)「会议开场与流程」
+- ✅ I can't tell you. / No comment. / I can't talk about this. → [会议与公司动态](topics/02-work/meeting.md)「保密与纪律」
+- ✅ I'm booked until 8:30 a.m. + eight thirty 读法 → [数字·时间·日期](words/vocab/numbers-time.md)「时刻」
+- ✅ light food / heavy food → [餐厅](topics/01-daily/restaurant.md)「清淡与油腻」
+- ✅ It's humid. / It's dry. → 新建 [天气](topics/01-daily/weather.md)
+- ✅ Catch the criminal / who will solve the case?（犯罪剧台词）→ [影视娱乐](topics/04-leisure/entertainment.md)「犯罪 / 悬疑剧」
+
 ## 待归类（尚未分发）
 
 （暂无）
